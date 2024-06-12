@@ -1,0 +1,5 @@
+
+
+1        , Apple     ,  1.99 ,  Fruit   ,   10
+2        , Orange     , 0.99 ,  Fruit   ,   15
+3        , Banana     , 0.49 ,  Fruit   ,   20
