@@ -1,0 +1,5 @@
+Stock Number   ,  Product ID    , Product Name   , Category   , Price
+
+1	       ,  203           , Iphone11       , Iphone      , 250000
+2	       ,  201           , Iphone12       , Iphone      , 250000
+3	       ,  204           , Iphone13       , Iphone      , 250000
